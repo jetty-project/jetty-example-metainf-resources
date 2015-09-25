@@ -1,5 +1,5 @@
-Jetty Example of /META-INF/resources/ Use
-=========================================
+Jetty Example of /META-INF/resources/
+=====================================
 
 This project contains 2 modules .
 
