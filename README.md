@@ -32,5 +32,4 @@ To Run
 To Test
 -------
 
-Open a browser to [http://localhost:8080/]
-
+Open a browser to `http://localhost:8080/`
